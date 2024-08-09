@@ -1,9 +1,9 @@
 # Instruções:
 
-1 - Clonar e baixar repositório;
+1 - Clonar/baixar repositório;
 
-2 - App, dar npm install --force;
+2 - api, dar npm install --force;
 
-3 - Api, baixar dependecias do maven;
+3 - app, baixar dependecias do maven;
 
-4 - SQl, importar schema para o banco Postgresql;
+4 - sql, importar schema para o banco Postgresql;
